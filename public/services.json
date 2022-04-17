@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "WEEDING PHOTOGRAPHY",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/HDDHm7r/weeding1.png"
+    },
+    {
+        "id": 2,
+        "name": "SPORTS PHOTOGRAPHY",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/vP5YDfX/sports.png"
+    },
+    {
+        "id": 3,
+        "name": "WILD PHOTOGRAPHY",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/g65mFzD/groom-putting-ring-bride-s-finger-1.png"
+    }
+]
