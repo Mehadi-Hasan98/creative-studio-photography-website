@@ -1,0 +1,23 @@
+.studio-name{
+    color: darkslateblue;
+    margin-right: auto;
+    padding-left: 40px;
+}
+
+.nav{
+    display: flex;
+    border: 2px solid slategray;
+    background-color: cadetblue;
+    align-items: center;
+    justify-content: center;
+    padding-right: 40px;
+}
+
+.nav a {
+    padding-left: 25px;
+    
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+    font-weight:400;
+}
