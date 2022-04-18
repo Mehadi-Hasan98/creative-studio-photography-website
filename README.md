@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Creative Studio Photography
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Live Site Link](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Website's Description
 
-In the project directory, you can run:
+- This is a photography based website.
+- Here you can photography services.
+- It has 5 components in the navbar section.
+- your order details will send you the checkout page.
+- This website is using by React Router, React hook, React Bootstrap, React Icon etc
+- It is hosted by firebase.
 
 ### `npm start`
 
