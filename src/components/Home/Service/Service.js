@@ -7,14 +7,14 @@ const Service = ({service}) => {
     const navigateToCheckout = id => {
         navigate('/checkout')
     }
-    const {name, price, img, description} = service;
+    const {id, name, price, img, description} = service;
     return (
-        <div className='service'>
+        <div className='service mb-5'>
             <img src={img} alt="" />
-            <h3>{name}</h3>
-            <p>Price: {price}</p>
+            <h4>{name}</h4>
+            <p>Price: ${price}</p>
             <p>Description: {description}</p>
-            <button className='btn btn-primary' onClick={() => navigateToCheckout()}>Please Checkout</button>
+            <button className='btn btn-primary' onClick={() => navigateToCheckout(id)}>Please Checkout</button>
         </div>
     );
 };

@@ -1,9 +1,10 @@
 import React from "react";
+import {BsQuestionCircleFill} from 'react-icons/bs';
 
 const Blogs = () => {
   return (
     <div>
-      <h3 className="text-center mt-5 text-primary mb-5">Question and Answer</h3>
+      <h3 className="text-center mt-5 text-primary mb-5">Question and Answer <BsQuestionCircleFill/></h3>
       <div className="text-center mt-4 mx-5 ps-5 pe-5">
         <h5>Question-1: Difference between authorization and authentication</h5>
         <p> Authentication means confirming your own identity, while authorization means granting access to the system. In simple terms, authentication is the process of verifying who you are, while authorization is the process of granting permission to cloudHQ to access your cloud accounts (copy files, restore emails, etc.) on your behalf.

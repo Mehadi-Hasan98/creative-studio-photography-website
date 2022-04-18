@@ -20,7 +20,7 @@ const Banner = () => {
         />
         <Carousel.Caption>
           <h3>Weeding Photography</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <p>Best places for booking photographer</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -33,7 +33,7 @@ const Banner = () => {
 
         <Carousel.Caption>
           <h3>Wild Photography</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p>Wild Photography intends to spread the love for Wildlife and Nature.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -47,7 +47,7 @@ const Banner = () => {
         <Carousel.Caption>
           <h3>Sports Photography</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+            A professional Photographer can change the environment.
           </p>
         </Carousel.Caption>
       </Carousel.Item>

@@ -6,12 +6,12 @@ import {getAuth} from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAgEAakCT_aUdZObKJLSN2moaoF_GCUHE0",
-  authDomain: "creative-studio-photography.firebaseapp.com",
-  projectId: "creative-studio-photography",
-  storageBucket: "creative-studio-photography.appspot.com",
-  messagingSenderId: "198527421029",
-  appId: "1:198527421029:web:3340b5673dcc4328f0548c"
+apiKey: "AIzaSyAgEAakCT_aUdZObKJLSN2moaoF_GCUHE0",
+authDomain: "creative-studio-photography.firebaseapp.com",
+projectId: "creative-studio-photography",
+storageBucket: "creative-studio-photography.appspot.com",
+messagingSenderId: "198527421029",
+appId: "1:198527421029:web:3340b5673dcc4328f0548c",
 };
 
 // Initialize Firebase
