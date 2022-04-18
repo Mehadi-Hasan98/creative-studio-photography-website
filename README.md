@@ -1,6 +1,6 @@
 # Creative Studio Photography
 
- [Live Site Link](https://github.com/facebook/create-react-app).
+ Live Site Link [Creative Studio Photography](https://github.com/facebook/create-react-app).
 
 ## Website's Description
 
