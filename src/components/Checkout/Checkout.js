@@ -6,7 +6,7 @@ const Checkout = () => {
     const {serviceId} = useParams();
 
     return (
-        <div className='register-form'>
+        <div className='register-form1'>
             <h2 className='text-center mb-3'>Checkout Form</h2>
             <form>
                 <h3>{serviceId}</h3>

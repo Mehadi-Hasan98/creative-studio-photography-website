@@ -1,11 +1,11 @@
-.register-form{
+.register-form1{
     padding-top: 20px;
     padding-bottom: 20px;
     margin: 0 auto;
     width: 50%;
 }
 
-.register-form input{
+.register-form1 input{
     display: block;
     width: 100%;
     height: 40px;
